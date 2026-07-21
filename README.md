@@ -72,7 +72,7 @@ Follow these steps to set up the project locally:
 ### 3. Run the Application
 Open your browser and navigate to:
 ```
-http://localhost/Foodwastesharingplatform/
+http://localhost/Food-Waste-Sharing-Platform/
 ```
 
 ---
